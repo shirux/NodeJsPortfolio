@@ -1,0 +1,80 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "project_name": "quotes generator",
+            "description": "A random quotes generator done with JavaScript",
+            "technologies": [
+                "Javascript",
+                "HTML",
+                "css"
+            ],
+            "github_link": "https://github.com/shirux/Random-Quote-Generator",
+            "image_urls": [
+                "images/main-1.jpg",
+                "images/side-1.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Javascript Pagination",
+            "description": "Student list with search and pagination features done in JS",
+            "technologies": [
+                "Javascript",
+                "HTML",
+                "css"
+            ],
+            "github_link": "https://github.com/shirux/paginationJS",
+            "image_urls": [
+                "images/main-2.jpg",
+                "images/side-2.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "Interactive Form",
+            "description": "Form with different Javascript validations",
+            "technologies": [
+                "Javascript",
+                "HTML",
+                "css"
+            ],
+            "github_link": "https://github.com/shirux/interactiveForm",
+            "image_urls": [
+                "images/main-3.jpg",
+                "images/side-3.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "OOP Game",
+            "description": "A Javascript Object Oriented Program 'Guess the word' Game",
+            "technologies": [
+                "Javascript",
+                "HTML",
+                "css"
+            ],
+            "github_link": "https://github.com/shirux/JavaScriptOOPGame",
+            "image_urls": [
+                "images/main-4.jpg",
+                "images/side-4.jpg"
+            ]
+        },
+        {
+            "id": 5,
+            "project_name": "Api Request",
+            "description": "An API request project to retrieve a random employee list",
+            "technologies": [
+                "Javascript",
+                "HTML",
+                "css"
+            ],
+            "live_link": "",
+            "github_link": "https://github.com/shirux/Javascript_Api_request",
+            "image_urls": [
+                "images/main-5.jpg",
+                "images/side-5.jpg"
+            ]
+        }
+    ]
+}
