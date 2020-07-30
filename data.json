@@ -10,10 +10,12 @@
                 "css"
             ],
             "github_link": "https://github.com/shirux/Random-Quote-Generator",
-            "image_urls": [
-                "images/main-1.jpg",
-                "images/side-1.jpg"
-            ]
+            "image_urls": {
+                "main": "images/main-1.jpg",
+                "images": [
+                    "images/side-1.jpg"
+                ]
+            }
         },
         {
             "id": 2,
@@ -25,10 +27,12 @@
                 "css"
             ],
             "github_link": "https://github.com/shirux/paginationJS",
-            "image_urls": [
-                "images/main-2.jpg",
-                "images/side-2.jpg"
-            ]
+            "image_urls": {
+                "main": "images/main-2.jpg",
+                "images": [
+                    "images/side-2.jpg"
+                ]
+            }
         },
         {
             "id": 3,
@@ -40,10 +44,12 @@
                 "css"
             ],
             "github_link": "https://github.com/shirux/interactiveForm",
-            "image_urls": [
-                "images/main-3.jpg",
-                "images/side-3.jpg"
-            ]
+            "image_urls": {
+                "main": "images/main-3.jpg",
+                "images": [
+                    "images/side-3.jpg"
+                ]
+            }
         },
         {
             "id": 4,
@@ -55,10 +61,12 @@
                 "css"
             ],
             "github_link": "https://github.com/shirux/JavaScriptOOPGame",
-            "image_urls": [
-                "images/main-4.jpg",
-                "images/side-4.jpg"
-            ]
+            "image_urls": {
+                "main": "images/main-4.jpg",
+                "images": [
+                    "images/side-4.jpg"
+                ]
+            }
         },
         {
             "id": 5,
@@ -71,10 +79,13 @@
             ],
             "live_link": "",
             "github_link": "https://github.com/shirux/Javascript_Api_request",
-            "image_urls": [
-                "images/main-5.jpg",
-                "images/side-5.jpg"
-            ]
+            "image_urls": {
+                "main": "images/main-5.jpg",
+                "images": [
+                    "images/side-5.jpg"
+                ]
+            }
+
         }
     ]
 }
