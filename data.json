@@ -2,7 +2,7 @@
     "projects": [
         {
             "id": 1,
-            "project_name": "quotes generator",
+            "project_name": "Quotes generator",
             "description": "A random quotes generator done with JavaScript",
             "technologies": [
                 "Javascript",

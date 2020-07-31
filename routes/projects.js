@@ -8,7 +8,7 @@ const router = express.Router()
 router.get('/:id', (req, res) => {
     let { id } = req.params;
     const { projects } = data;
-    if (!id || id < 0 || id >= projects.length) {
+    if (!id || id < 1 || id > projects.length) {
         return res.redirect('/')
     } else {
         id--;
