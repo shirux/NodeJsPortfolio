@@ -11,9 +11,9 @@
             ],
             "github_link": "https://github.com/shirux/quoteGenerator",
             "image_urls": {
-                "main": "images/main-1.jpg",
+                "main": "images/main-1.JPG",
                 "images": [
-                    "images/side-1.jpg"
+                    "images/side-1.JPG"
                 ]
             },
             "live_link": "https://shirux.github.io/quoteGenerator/"
@@ -29,9 +29,9 @@
             ],
             "github_link": "https://github.com/shirux/paginationJS",
             "image_urls": {
-                "main": "images/main-2.jpg",
+                "main": "images/main-2.JPG",
                 "images": [
-                    "images/side-2.jpg"
+                    "images/side-2.JPG"
                 ]
             },
             "live_link": "https://shirux.github.io/paginationJS/"
@@ -47,9 +47,9 @@
             ],
             "github_link": "https://github.com/shirux/interactiveForm",
             "image_urls": {
-                "main": "images/main-3.jpg",
+                "main": "images/main-3.JPG",
                 "images": [
-                    "images/side-3.jpg"
+                    "images/side-3.JPG"
                 ]
             },
             "live_link": "https://shirux.github.io/interactiveForm/"
@@ -65,9 +65,9 @@
             ],
             "github_link": "https://github.com/shirux/javascriptOOPGame",
             "image_urls": {
-                "main": "images/main-4.jpg",
+                "main": "images/main-4.JPG",
                 "images": [
-                    "images/side-4.jpg"
+                    "images/side-4.JPG"
                 ]
             },
             "live_link": "https://shirux.github.io/javascriptOOPGame/"
@@ -83,9 +83,9 @@
             ],
             "github_link": "https://github.com/shirux/javascriptApiRequest",
             "image_urls": {
-                "main": "images/main-5.jpg",
+                "main": "images/main-5.JPG",
                 "images": [
-                    "images/side-5.jpg"
+                    "images/side-5.JPG"
                 ]
             },
             "live_link": "https://shirux.github.io/javascriptApiRequest/"
