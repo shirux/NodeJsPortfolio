@@ -15,7 +15,7 @@ block content
           each technology in project.technologies
             li= technology
         if project.live_link
-          a.button.expanded(href=`${project.live_link}`) Live Demo
+          a.button.expanded(target='_blank' href=`${project.live_link}`) Live Demo
         if project.github_link
           a.button.expanded(target='_blank' href=`${project.github_link}`) GitHub Repo
     
